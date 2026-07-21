@@ -1,0 +1,1 @@
+Per capire gli intergrali bisogna conoscere le [[02_Derivate]]
