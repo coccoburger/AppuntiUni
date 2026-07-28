@@ -15,17 +15,7 @@
               "state": {
                 "file": "Analisi/00_Indice.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": true,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "source": false
               },
               "icon": "lucide-file",
               "title": "00_Indice"
@@ -190,17 +180,17 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "81952390945b332b",
+  "active": "8e5a1e388453c1ba",
   "lastOpenFiles": [
     "Analisi/01_Integrali.md",
     "Analisi/02_Derivate.md",
+    "Senza nome.canvas",
     "Analisi/00_Indice.md",
     "Senza nome.md",
     "2026-07-21.md",
     "Senza nome.base",
     "Analisi/Prova mate2.md",
     "Prova 3.md",
-    "Senza nome.canvas",
     "Prova.md",
     "Analisi",
     "Senza nome 1"

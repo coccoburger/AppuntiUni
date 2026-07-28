@@ -1,1 +1,1 @@
-Per capire gli intergrali bisogna conoscere le [[02_Derivate]]
+Per capire gli integrali bisogna conoscere le [[02_Derivate]]
