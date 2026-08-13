@@ -179,9 +179,19 @@
               "icon": "message-square",
               "title": "Copilot"
             }
+          },
+          {
+            "id": "71c30bc9682e5e78",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-agent-chat-view",
+              "state": {},
+              "icon": "copilot-agent",
+              "title": "Copilot Agent"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -196,48 +206,51 @@
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
       "bases:Crea nuova Base": false,
-      "obsidian-git:Open Git source control": false,
       "copilot:Open Copilot Chat": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "8e5b31e59798f9ea",
+  "active": "71c30bc9682e5e78",
   "lastOpenFiles": [
+    "copilot/skills/obsidian-cli/SKILL.md",
+    "copilot/skills/obsidian-cli/LICENSE",
+    "copilot/skills/obsidian-cli",
+    "copilot/skills/json-canvas/SKILL.md",
+    "copilot/skills/json-canvas/LICENSE",
+    "copilot/skills/json-canvas/references/EXAMPLES.md",
+    "copilot/skills/json-canvas/references",
+    "copilot/skills/json-canvas",
+    "copilot/skills/obsidian-bases/SKILL.md",
+    "copilot/skills/obsidian-bases/LICENSE",
+    "copilot/skills/obsidian-bases/references/EXAMPLES.md",
+    "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
+    "copilot/skills/obsidian-bases/references",
+    "copilot/skills/obsidian-bases",
+    "copilot/skills/obsidian-markdown/SKILL.md",
+    "copilot/skills/obsidian-markdown/LICENSE",
+    "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
+    "copilot/skills/obsidian-markdown/references/EMBEDS.md",
+    "copilot/skills/obsidian-markdown/references/CALLOUTS.md",
+    "copilot/skills/obsidian-markdown/references",
+    "copilot/skills/symposium-publish/SKILL.md",
+    "copilot/skills/copilot-fetch-x/SKILL.md",
+    "copilot/skills/copilot-youtube-transcript/SKILL.md",
+    "copilot/skills/copilot-read-pdf/SKILL.md",
+    "copilot/skills/copilot-web-fetch/SKILL.md",
+    "copilot/skills/copilot-web-search/SKILL.md",
     "2026-08-02.md",
     "2026-W31.md",
     "Senza nome 1.canvas",
     "Senza nome.canvas",
     "copilot/copilot-custom-prompts/Summarize.md",
     "Excalidraw/Drawing 2026-08-02 09.26.54.excalidraw.md",
-    "Excalidraw",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-    "copilot/copilot-custom-prompts",
-    "copilot",
-    "Analisi/00_Indice.md",
-    "Senza nome.base",
-    "Analisi/01_Integrali.md",
-    "Analisi/02_Derivate.md",
-    "Senza nome.md",
-    "2026-07-21.md",
-    "Analisi/Prova mate2.md",
-    "Prova 3.md",
-    "Prova.md",
-    "Analisi",
-    "Senza nome 1"
+    "copilot/copilot-custom-prompts/Generate glossary.md"
   ]
 }
