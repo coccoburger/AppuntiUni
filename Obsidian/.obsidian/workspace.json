@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e9dbf3f831eafc5d",
+            "id": "d2331a8d52834e57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.09.26.md",
+                "file": "Programmazione 1/Indice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.09.26"
+              "title": "Indice"
             }
           }
         ]
@@ -202,19 +202,19 @@
       "bases:Crea nuova Base": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
-      "copilot:Open Copilot Agent Chat": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb52d9aa7cc344c6",
+  "active": "d2331a8d52834e57",
   "lastOpenFiles": [
+    "10.09.26 Presentazione corso e algoritmi.md",
+    "Programmazione 1/Indice.md",
+    "Programmazione 1/10.09.26 Presentazione corso e algoritmi.md",
     "copilot/copilot-conversations/cosa_puoi_fare@20260910_121357.md",
     "copilot/copilot-conversations",
-    "10.09.26.md",
     "Analisi/00_Indice.md",
     "Analisi/02_Derivate.md",
     "Analisi/01_Integrali.md",
-    "Senza nome.md",
     "Programmazione 1",
     "copilot/skills/obsidian-cli/SKILL.md",
     "copilot/skills/obsidian-cli/LICENSE",
@@ -244,7 +244,6 @@
     "2026-W31.md",
     "Senza nome 1.canvas",
     "Senza nome.canvas",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "Excalidraw/Drawing 2026-08-02 09.26.54.excalidraw.md"
+    "copilot/copilot-custom-prompts/Summarize.md"
   ]
 }
