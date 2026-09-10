@@ -1,1 +1,0 @@
-Per capire gli integrali bisogna conoscere le [[02_Derivate]]
