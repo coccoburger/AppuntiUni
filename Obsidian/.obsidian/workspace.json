@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8e5b31e59798f9ea",
+            "id": "e9dbf3f831eafc5d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "type": "markdown",
+              "state": {
+                "file": "10.09.26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10.09.26"
             }
           }
         ]
@@ -189,9 +193,19 @@
               "icon": "copilot-agent",
               "title": "Copilot Agent"
             }
+          },
+          {
+            "id": "cb52d9aa7cc344c6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -206,14 +220,17 @@
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
       "bases:Crea nuova Base": false,
-      "copilot:Open Copilot Chat": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
-      "copilot:Open Copilot Agent Chat": false
+      "copilot:Open Copilot Agent Chat": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "71c30bc9682e5e78",
+  "active": "e9dbf3f831eafc5d",
   "lastOpenFiles": [
+    "10.09.26.md",
+    "Analisi/02_Derivate.md",
+    "Programmazione 1",
     "copilot/skills/obsidian-cli/SKILL.md",
     "copilot/skills/obsidian-cli/LICENSE",
     "copilot/skills/obsidian-cli",
@@ -233,7 +250,6 @@
     "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
     "copilot/skills/obsidian-markdown/references/EMBEDS.md",
     "copilot/skills/obsidian-markdown/references/CALLOUTS.md",
-    "copilot/skills/obsidian-markdown/references",
     "copilot/skills/symposium-publish/SKILL.md",
     "copilot/skills/copilot-fetch-x/SKILL.md",
     "copilot/skills/copilot-youtube-transcript/SKILL.md",
@@ -249,8 +265,6 @@
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md"
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md"
   ]
 }

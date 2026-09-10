@@ -557,33 +557,6 @@
     {
       "providerId": "6bcb74ea-7fe8-44a2-83bb-a9ad25b029be",
       "info": {
-        "id": "opencode/deepseek-v4-flash-free",
-        "displayName": "OpenCode Zen/DeepSeek V4 Flash Free"
-      },
-      "configuredModelId": "6624d672-91a8-4e06-8749-6ea3b6adf806",
-      "configuredAt": 1786630644468
-    },
-    {
-      "providerId": "6bcb74ea-7fe8-44a2-83bb-a9ad25b029be",
-      "info": {
-        "id": "opencode/hy3-free",
-        "displayName": "OpenCode Zen/Hy3 Free"
-      },
-      "configuredModelId": "0dbbb0ca-1626-43fd-bb64-0042be309db6",
-      "configuredAt": 1786630644475
-    },
-    {
-      "providerId": "6bcb74ea-7fe8-44a2-83bb-a9ad25b029be",
-      "info": {
-        "id": "opencode/laguna-s-2.1-free",
-        "displayName": "OpenCode Zen/Laguna S 2.1 Free"
-      },
-      "configuredModelId": "68bbc338-9737-4bc2-af9c-872facdf796f",
-      "configuredAt": 1786630644479
-    },
-    {
-      "providerId": "6bcb74ea-7fe8-44a2-83bb-a9ad25b029be",
-      "info": {
         "id": "opencode/mimo-v2.5-free",
         "displayName": "OpenCode Zen/MiMo V2.5 Free"
       },
@@ -607,14 +580,39 @@
       },
       "configuredModelId": "3e481103-2e1b-4cf7-9026-519805206af8",
       "configuredAt": 1786630644482
+    },
+    {
+      "providerId": "6bcb74ea-7fe8-44a2-83bb-a9ad25b029be",
+      "info": {
+        "id": "opencode/ling-3.0-flash-fin-free",
+        "displayName": "OpenCode Zen/Ling 3.0 Flash Fin Free"
+      },
+      "configuredModelId": "92a09b02-b2a9-48ac-bc09-ec56e4aaaea3",
+      "configuredAt": 1789027670170
+    },
+    {
+      "providerId": "6bcb74ea-7fe8-44a2-83bb-a9ad25b029be",
+      "info": {
+        "id": "opencode/muse-spark-1.2-contributor-free",
+        "displayName": "OpenCode Zen/Muse Spark 1.2 Free"
+      },
+      "configuredModelId": "0565b0f6-dbba-4dd0-8363-49db8742c12f",
+      "configuredAt": 1789027670174
+    },
+    {
+      "providerId": "6bcb74ea-7fe8-44a2-83bb-a9ad25b029be",
+      "info": {
+        "id": "opencode/muse-spark-1.3-contributor-free",
+        "displayName": "OpenCode Zen/Muse Spark 1.3 Free"
+      },
+      "configuredModelId": "789cb525-66d4-4cc7-b914-89a6f3e5256c",
+      "configuredAt": 1789027670175
     }
   ],
   "backends": {
     "opencode": {
       "enabledModels": [
-        "8abdeb0d-1f46-483c-8e1f-9f226143bda2",
-        "6624d672-91a8-4e06-8749-6ea3b6adf806",
-        "0dbbb0ca-1626-43fd-bb64-0042be309db6"
+        "8abdeb0d-1f46-483c-8e1f-9f226143bda2"
       ]
     }
   },

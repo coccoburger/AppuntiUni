@@ -3,5 +3,6 @@
   "templater-obsidian",
   "obsidian-tasks-plugin",
   "omnisearch",
-  "calendar"
+  "calendar",
+  "obsidian-git"
 ]
