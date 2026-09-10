@@ -226,10 +226,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9dbf3f831eafc5d",
+  "active": "81952390945b332b",
   "lastOpenFiles": [
     "10.09.26.md",
+    "Analisi/00_Indice.md",
     "Analisi/02_Derivate.md",
+    "Analisi/01_Integrali.md",
+    "Senza nome.md",
     "Programmazione 1",
     "copilot/skills/obsidian-cli/SKILL.md",
     "copilot/skills/obsidian-cli/LICENSE",
@@ -262,9 +265,6 @@
     "Senza nome.canvas",
     "copilot/copilot-custom-prompts/Summarize.md",
     "Excalidraw/Drawing 2026-08-02 09.26.54.excalidraw.md",
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md"
+    "copilot/copilot-custom-prompts/Clip Web Page.md"
   ]
 }
