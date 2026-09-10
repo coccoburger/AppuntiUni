@@ -175,26 +175,6 @@
             }
           },
           {
-            "id": "4fb725ba9e775704",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
-          },
-          {
-            "id": "71c30bc9682e5e78",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-agent-chat-view",
-              "state": {},
-              "icon": "copilot-agent",
-              "title": "Copilot Agent"
-            }
-          },
-          {
             "id": "cb52d9aa7cc344c6",
             "type": "leaf",
             "state": {
@@ -205,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -226,8 +206,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81952390945b332b",
+  "active": "cb52d9aa7cc344c6",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/cosa_puoi_fare@20260910_121357.md",
+    "copilot/copilot-conversations",
     "10.09.26.md",
     "Analisi/00_Indice.md",
     "Analisi/02_Derivate.md",
@@ -249,7 +231,6 @@
     "copilot/skills/obsidian-bases/references",
     "copilot/skills/obsidian-bases",
     "copilot/skills/obsidian-markdown/SKILL.md",
-    "copilot/skills/obsidian-markdown/LICENSE",
     "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
     "copilot/skills/obsidian-markdown/references/EMBEDS.md",
     "copilot/skills/obsidian-markdown/references/CALLOUTS.md",
@@ -264,7 +245,6 @@
     "Senza nome 1.canvas",
     "Senza nome.canvas",
     "copilot/copilot-custom-prompts/Summarize.md",
-    "Excalidraw/Drawing 2026-08-02 09.26.54.excalidraw.md",
-    "copilot/copilot-custom-prompts/Clip Web Page.md"
+    "Excalidraw/Drawing 2026-08-02 09.26.54.excalidraw.md"
   ]
 }
