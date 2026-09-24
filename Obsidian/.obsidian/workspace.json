@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi 1/16.09.26 Prerequisiti - Funzioni.md",
+                "file": "Analisi 1/23.09.26 Numeri Complessi - Forma trigonometrica ed esponenziale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16.09.26 Prerequisiti - Funzioni"
+              "title": "23.09.26 Numeri Complessi - Forma trigonometrica ed esponenziale"
             }
           }
         ]
@@ -205,10 +205,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66dca86dddd1b990",
+  "active": "81952390945b332b",
   "lastOpenFiles": [
-    "Programmazione 1 Lab/17.09.26 Programmazione in C pt.2.md",
+    "Analisi 1/22.09.26 Numeri Complessi - Introduzione.md",
+    "Analisi 1/21.09.26 Prerequisiti - Funzioni pt.2.md",
+    "Analisi 1/23.09.26 Numeri Complessi - Forma trigonometrica ed esponenziale.md",
+    "Geometria e Algebra Lineare/21.09.26 Posizioni reciproche e distanze nello spazio.md",
+    "Geometria e Algebra Lineare/21.09.26 Sistemi lineari.md",
+    "Geometria e Algebra Lineare/15.09.26 Operazioni con Vettori Geometrici in Coordinate.md",
     "Analisi 1/16.09.26 Prerequisiti - Funzioni.md",
+    "Programmazione 1 Lab/17.09.26 Programmazione in C pt.2.md",
     "Programmazione 1 Lab/11.09.26 Programmazione in C.md",
     "Geometria e Algebra Lineare/14.09.26 Vettori Geometrici.md",
     "Programmazione 1/Indice.md",
@@ -218,7 +224,6 @@
     "Programmazione 1/10.09.26 Presentazione corso e algoritmi.md",
     "Analisi 1/15.09.26 Prerequisiti - Numeri reali.md",
     "Analisi 1/14.09.26 Prerequisiti - Logica e Insiemi.md",
-    "Geometria e Algebra Lineare/15.09.26 Operazioni con Vettori Geometrici in Coordinate.md",
     "Geometria e Algebra Lineare",
     "Analisi 1",
     "Senza nome.md",
@@ -238,11 +243,6 @@
     "copilot/skills/json-canvas/references",
     "copilot/skills/json-canvas",
     "copilot/skills/obsidian-bases/SKILL.md",
-    "copilot/skills/obsidian-bases/references/EXAMPLES.md",
-    "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
-    "copilot/skills/obsidian-markdown/SKILL.md",
-    "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
-    "copilot/skills/obsidian-markdown/references/EMBEDS.md",
     "Senza nome 1.canvas",
     "Senza nome.canvas"
   ]
